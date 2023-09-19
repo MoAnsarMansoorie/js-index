@@ -17,4 +17,14 @@ Object literal
 - Instances (new, this)
 
 
+## 4 pillars
+Abstraction
+Incapsulation 
+Inheritance
+Polymorphism
+
+
+### files had created in this way-
+oops
+
 
