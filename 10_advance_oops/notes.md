@@ -25,7 +25,8 @@ Polymorphism
 
 
 ### files had created in this way-
-oops
+oops.js
+object.js
 prototype
 
 
