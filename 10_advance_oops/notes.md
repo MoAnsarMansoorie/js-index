@@ -27,6 +27,8 @@ Polymorphism
 ### files had created in this way-
 oops.js
 object.js
-prototype
+prototype.js
+call.js
+myclasses.js
 
 
