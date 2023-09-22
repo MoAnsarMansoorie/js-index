@@ -30,5 +30,10 @@ object.js
 prototype.js
 call.js
 myclasses.js
+inheritance.js
+static.js
+bind.html
+mathpi.js
+
 
 
