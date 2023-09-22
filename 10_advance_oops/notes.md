@@ -34,6 +34,7 @@ inheritance.js
 static.js
 bind.html
 mathpi.js
+getter_setter.js
 
 
 
