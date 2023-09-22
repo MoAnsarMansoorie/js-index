@@ -35,6 +35,7 @@ static.js
 bind.html
 mathpi.js
 getter_setter.js
+properties_get_set.js
 
 
 
